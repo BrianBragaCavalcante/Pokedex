@@ -11,7 +11,7 @@
 
 body {
     text-align: center;
-    background: linear-gradient(to bottom, rgb(197, 0, 0), #ff8989);
+    background: linear-gradient(to bottom, rgb(197, 0, 0), #751212);
     min-height: 100vh;
 }
 
@@ -74,7 +74,7 @@ main {
 
 .buttons {
     position: absolute;
-    bottom: 10%;
+    bottom: 15%;
     left: 50%;
     width: 65%;
 
